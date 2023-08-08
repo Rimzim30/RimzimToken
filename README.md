@@ -10,6 +10,6 @@ My account adddress - 0x5Cf1271dB03F3735BBCb5bE114A285c22F8f91e5
 
 Premint tokens - 10
 
-Details:
+# Details:
 - My token name - Rimzim
 - My Token symbol - R
