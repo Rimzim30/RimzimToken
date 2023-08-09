@@ -1,4 +1,4 @@
-# ETH PROOF INTERMEDIATE EVM COURSE MODULE 2
+# ETH PROOF INTERMEDIATE EVM COURSE MODULE 3
 
 Writing a smart contract to create my own ERC20 token and deploy it using Remix. 
 
